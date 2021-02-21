@@ -5,6 +5,7 @@ const Demo = () => {
   return (
     <div>
       <Helmet>
+    <meta name="google-site-verification" content="ebvLr84CVTSpjtrusz7g7RB21J384B2SJOGrau8jl04" />
         <title>Demo Aplikasi restoran penjuan kasir si resto web app</title>
         <meta
           content="Demo Aplikasi toko penjuan kasir vpos web app"
