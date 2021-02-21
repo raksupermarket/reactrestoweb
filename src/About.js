@@ -5,6 +5,7 @@ const About = () => {
   return (
     <div className="text-center">
       <Helmet>
+    <meta name="google-site-verification" content="ebvLr84CVTSpjtrusz7g7RB21J384B2SJOGrau8jl04" />
         <title>Aplikasi Restoran online web app</title>
         <meta content="Aplikasi Restoran online web app" name="twitter:title" />
         <meta
