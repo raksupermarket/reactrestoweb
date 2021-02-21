@@ -5,6 +5,7 @@ const Mobile = () => {
   return (
     <div>
       <Helmet>
+    <meta name="google-site-verification" content="ebvLr84CVTSpjtrusz7g7RB21J384B2SJOGrau8jl04" />
         <title>
           Mobile Waiters POS Aplikasi restoran cafe rumah makan online murah
         </title>
