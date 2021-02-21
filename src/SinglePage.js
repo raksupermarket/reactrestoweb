@@ -8,6 +8,7 @@ const SinglePage = ({ match }) => {
   return (
     <div>
       <Helmet>
+    <meta name="google-site-verification" content="ebvLr84CVTSpjtrusz7g7RB21J384B2SJOGrau8jl04" />
         <title>{article.desc}</title>
         <meta
           content="Aplikasi restoran kasir rumah makan cafe penjuan kasir sip resto web app"
